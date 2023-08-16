@@ -1,0 +1,16 @@
+.pictureSize {
+    height: 30vh;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 14px;
+}
+
+body {
+    background-color: lightpink;
+}
+
+.menu-options:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+}
